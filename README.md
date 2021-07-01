@@ -1,2 +1,4 @@
 # Java Sorting Algorithms
- Implementing some sorting algorithms to relearn Java
+ Implementing sorting algorithms to relearn Java.
+ 
+ Quick sort and the dreaded bubble sort have been added.
